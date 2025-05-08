@@ -1,0 +1,9 @@
+[submodule "eos-move-effects"]
+	path = eos-move-effects
+	url = https://github.com/SkyTemple/eos-move-effects.git
+[submodule "frost_asm_mods"]
+	path = frost_asm_mods
+	url = https://github.com/Frostbyte0x70/EoS-asm-patches.git
+[submodule "pmd2_asm_mods"]
+	path = pmd2_asm_mods
+	url = https://github.com/PsyCommando/pmd2_asm_mods.git
